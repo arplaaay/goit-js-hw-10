@@ -1,0 +1,14 @@
+.country-list {
+    list-style: none;
+}
+
+.countryListItem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.countryListFlag {
+    margin-right: 20px;
+    width: 50px;
+}
